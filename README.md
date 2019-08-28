@@ -1,5 +1,5 @@
 # PhotoApp
-This project was generated with React JS](https://reactjs.org/) version 16.9.0.
+This project was generated with [React JS](https://reactjs.org/) version 16.9.0.
 
 ## Development server
 To start the project:
