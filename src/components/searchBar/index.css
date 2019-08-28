@@ -1,0 +1,13 @@
+.searchbar {
+    padding: .5rem 1rem;
+    border-radius: 20px;
+    font-size: 1rem;
+    border: 1px solid gray;
+    width: 19rem;
+}
+
+@media only screen and (max-width: 320px) {
+    .searchbar {
+        width: 15rem;
+    }
+}
