@@ -102,7 +102,7 @@ export default class PhotoApp extends Component {
                 </PhotoAppHeader>
 
                 <div className="gridContainer">
-                    {this.state.photoList.slice(0, this.state.numberOfPhotos).map((photo, index) => {
+                    {this.state.photoList.slice(0, this.state.numberOfPhotos).map(photo => {
                         return (
                             <PhotoListItem
                                 key={photo.id}
